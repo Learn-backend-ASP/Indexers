@@ -400,4 +400,4 @@ You give them a room number (index), and they give you the guest (value) inside.
 
 **Author:** Mahmoud Hany  
 **Language:** C#  
-**Topic:** Inheritance
+**Topic:** Indexers
